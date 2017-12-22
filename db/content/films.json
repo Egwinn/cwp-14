@@ -1,0 +1,102 @@
+[
+    {
+        "id": 346,
+        "title": "Побег из Шоушенка",
+        "rating": "9.196",
+        "year": 1994,
+        "budget": 25000000,
+        "gross": 59841469,
+        "poster": "https://st.kp.yandex.net/images/film_big/326.jpg",
+        "position": 1
+    },
+    {
+        "id": 435,
+        "title": "Зеленая миля",
+        "rating": "9.148",
+        "year": 1999,
+        "budget": 60000000,
+        "gross": 286801374,
+        "poster": "https://st.kp.yandex.net/images/film_big/435.jpg",
+        "position": 2
+    },
+    {
+        "id": 448,
+        "title": "Форрест Гамп",
+        "rating": "9.001",
+        "year": 1994,
+        "budget": 55000000,
+        "gross": 677386686,
+        "poster": "https://st.kp.yandex.net/images/film_big/448.jpg",
+        "position": 3
+    },
+    {
+        "id": 329,
+        "title": "Список Шиндлера",
+        "rating": "8.895",
+        "year": 1993,
+        "budget": 22000000,
+        "gross": 321265768,
+        "poster": "https://st.kp.yandex.net/images/film_big/329.jpg",
+        "position": 4
+    },
+    {
+        "id": 535341,
+        "title": "1+1",
+        "rating": "8.864",
+        "year": 2011,
+        "budget": 9500000,
+        "gross": 426588510,
+        "poster": "https://st.kp.yandex.net/images/film_big/535341.jpg",
+        "position": 5
+    },
+    {
+        "id": 447301,
+        "title": "Начало",
+        "rating": "8.768",
+        "year": 2010,
+        "budget": 160000000,
+        "gross": 825532764,
+        "poster": "https://st.kp.yandex.net/images/film_big/447301.jpg",
+        "position": 6
+    },
+    {
+        "id": 2360,
+        "title": "Король Лев",
+        "rating": "8.776",
+        "year": 1994,
+        "budget": 422783777,
+        "gross": 987483777,
+        "poster": "https://st.kp.yandex.net/images/film_big/2360.jpg",
+        "position": 7
+    },
+    {
+        "id": 389,
+        "title": "Леон",
+        "rating": "8.763",
+        "year": 1994,
+        "budget": 115000000,
+        "gross": 19501238,
+        "poster": "https://st.kp.yandex.net/images/film_big/389.jpg",
+        "position": 8
+    },
+    {
+        "id": 361,
+        "title": "Бойцовский клуб",
+        "rating": "8.699",
+        "year": 1999,
+        "budget": 63000000,
+        "gross": 37030102,
+        "poster": "https://st.kp.yandex.net/images/film_big/361.jpg",
+        "position": 9
+    },
+    {
+        "id": 351,
+        "title": "Иван Васильевич меняет профессию",
+        "rating": "8.691",
+        "year": 1973,
+        "budget": 10000000,
+        "gross": 67000000,
+        "poster": "https://st.kp.yandex.net/images/film_big/42664.jpg",
+        "position": 10
+    }
+]
