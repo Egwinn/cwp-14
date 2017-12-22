@@ -6,13 +6,6 @@ const config = require('./db/config/config.json');
 
 const db = require('./db/models')(Sequelize, config);
 
-db.connection.addHook('beforeBulkCreate', () => {
-    console.log('beforeCreate');
-});
-db.connection.addHook('afterBulkCreate', () => {
-    console.log('afterCreate');
-});
-
 WorkWork();
 
 async function WorkWork() {
@@ -78,11 +71,10 @@ async function WorkWork() {
     });
     // task01-9
     //sequelize init
-    //sequelize model:generate --name films --attributes title:string rating:double year:integer budget:integer gross:integer position:integer
-    //sequelize model:generate --name actors --attributes name:string birth:date filmsNumber:integer liked:integer photo:string
+    //sequelize model:generate --name films --attributes title:string, rating:double, year:integer, budget:integer, gross:integer, position:integer
+    //sequelize model:generate --name actors --attributes name:string, birth:date, filmsNumber:integer, liked:integer, photo:string
     //sequelize db:migrate
     //sequelize db:migrate:undo
-    //
 }
 
 
