@@ -2,25 +2,33 @@
     {
         "id": 1,
         "name": "Джонни Депп",
-        "birth": "9 июня, 1963",
-        "films": 246,
+        "birth": "06-09-1963",
+        "filmsNumber": 246,
         "liked": 23976,
         "photo": "https://st.kp.yandex.net/im/kadr/1/1/6/kinopoisk.ru-Johnny-Depp-1168684.jpg"
     },
     {
         "id": 2,
         "name": "Скарлетт Йоханссон",
-        "birth": "22 ноября, 1984",
-        "films": 165,
+        "birth": "11-22-1984",
+        "filmsNumber": 165,
         "liked": 11221,
         "photo": "https://st.kp.yandex.net/im/kadr/1/0/8/kinopoisk.ru-Scarlett-Johansson-1086766.jpgg"
     },
     {
         "id": 3,
         "name": "Том Круз",
-        "birth": "3 июля, 1962",
-        "films": 225,
+        "birth": "07-03-1962",
+        "filmsNumber": 225,
         "liked": 7485,
         "photo": "https://st.kp.yandex.net/im/kadr/5/8/8/kinopoisk.ru-Tom-Cruise-588906.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Брюс Уиллис",
+        "birth": "03-19-1955",
+        "filmsNumber": 290,
+        "liked": 6386,
+        "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_110.jpg"
     }
 ]

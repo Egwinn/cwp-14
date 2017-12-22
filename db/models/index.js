@@ -1,10 +1,15 @@
 const Films = require('./films');
 const Actors = require('./actors');
 const FilmsActors = require('./filmsActors');
-const config = require('../config/config.json');
 
-module.exports = (Sequelize) =>{
+module.exports = (Sequelize, config) =>{
     const connection = new Sequelize(config.db, config.login, config.password, config.options);
+
+    connection.authenticate().then(() => {
+        console.log('Connection to database successful');
+    }).catch((err) => {
+        console.log('Unable to connect to database', err);
+    });
 
     const films = Films(Sequelize, connection);
     const actors = Actors(Sequelize, connection);

@@ -44,7 +44,7 @@ module.exports = (sequelize, connection) =>{
     },
     {
         scopes:{
-            releaseDate2007:function (){
+            releaseDate2007 : function (){
                 const Sequelize = require('Sequelize');
                 return {
                     where: {
