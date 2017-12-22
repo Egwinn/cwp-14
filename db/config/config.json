@@ -1,0 +1,14 @@
+{
+    "db" : "features",
+    "login" : "root",
+    "password" : "root",
+    "options": {
+        "dialect": "mysql",
+        "host": "localhost",
+        "define": {
+          "timestamps": true,
+          "paranoid": true
+        },
+        "logging": false
+    }
+}
